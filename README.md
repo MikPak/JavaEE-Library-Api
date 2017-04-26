@@ -1,3 +1,4 @@
+<html>
 <div class="container">
     <h1></h1>
     <p class="sw-info">Base URL: <span class="sw-info-basePath">/api</span>, Version: <span class="sw-info-version">1.0.0</span></p>
@@ -1131,3 +1132,4 @@
                        
     
 </div>
+</html>
